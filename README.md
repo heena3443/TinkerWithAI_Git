@@ -2,7 +2,7 @@
 Repo to be used for the Tinker with AI GIT Session at UTSA
 
 ## Install Python libraries
-'''pip install numpy'''
+```pip install numpy```
 
 
 ## Instructions for creating an account and service account key on Google Cloud Platform
