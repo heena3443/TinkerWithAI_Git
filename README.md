@@ -5,7 +5,9 @@ Repo to be used for the Tinker with AI GIT Session at UTSA
 
 ## Install Python libraries
 ```pip install numpy```
+
 ```pip install seaborn```
+
 ```pip install bigquery```
 
 
