@@ -20,10 +20,16 @@ Click Continue.
 Click Done to finish creating the service account.
 
 Do not close your browser window. You will use it in the next step.
+
 In the Cloud Console, click the email address for the service account that you created.
+
 Click Keys.
+
 Click Add key, then click Create new key.
+
 Click Create. A JSON key file is downloaded to your computer.
+
 Click Close.
+
 For more information visit https://cloud.google.com/docs/authentication/getting-started
 
