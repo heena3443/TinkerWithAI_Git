@@ -36,5 +36,6 @@ Code to copy for bigquery
 import os
 
 credential_path = "gcp.json"
+
 os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = credential_path
 
