@@ -33,6 +33,7 @@ As discussed in the workshop, you will have to create a free account on Google C
 a credential file associated with your project. Save this file to your computer. Ensure that the file is in your operating
 systems search path. The name of your file may be different from gcp.json.
 Code to copy for bigquery
+
 import os
 
 credential_path = "gcp.json"
